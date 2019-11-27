@@ -1,6 +1,6 @@
 ---
-title: "Data Manipulation Language - Create, Update and Delete using knex"
-date: "2019-04-30"
+title: "Digital decline: cryptocurrency sees losing streak stretch"
+date: "2019-11-27"
 ---
 
 

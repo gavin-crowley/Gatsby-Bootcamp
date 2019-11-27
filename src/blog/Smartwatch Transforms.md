@@ -1,9 +1,9 @@
 ---
-title: "Introduction to Relational Databases and SQL"
+title: "Smartwatch Transforms The Market, Best Alternative To The Apple Watch"
 date: "2019-04-29"
 ---
 
-![Introduction to Relational Databases and SQL Stock Photo](../images/introduction-to-relational-databases-and-sql.jpg)
+![Introduction to Relational Databases and SQL Stock Photo](../images/iphone-x-mockup.png)
 
 <center>
 
